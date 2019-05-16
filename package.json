@@ -1,0 +1,16 @@
+{
+  "name": "hello-css",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "gulp"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "~3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-sass": "^4.0.1"
+  }
+}
